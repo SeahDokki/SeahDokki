@@ -36,7 +36,7 @@ side_quests: [indie games, AI agents, Discord bots]
         8-bit top-down office with a cafeteria and meeting rooms, persistent agents,
         and anyone can plug in their own agent through the API.
       </p>
-      <a href="https://github.com/SeahDokki/ai-vivarium"><img src="https://img.shields.io/badge/View%20repo-ai--vivarium-06b6d4?style=flat-square&logo=github" alt="ai-vivarium" /></a>
+      <a href="https://github.com/SeahDokki/ai-vivarium"><img src="https://img.shields.io/badge/View%20repo-ai--vivarium-06b6d4?style=flat-square&logo=github" alt="ai-vivarium" /></a> <em><a href="https://vivairium.seah.world/">Check out demo !</a></em>
     </td>
   </tr>
 </table>
