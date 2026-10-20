@@ -25,12 +25,28 @@ security: hardening apps against bots, DDoS, XSS and injections
 side_quests: [indie games, AI agents, Discord bots]
 ```
 
-## Featured project
+## Featured projects
 
 <table>
   <tr>
-    <td width="100%">
-      <h3>VIV • <span>AI</span> • RIUM</h3>
+    <td width="30%" align="center">
+      <a href="https://maia.seah.world/"><img src="https://maia.seah.world/maia/default.png" alt="MaïA" width="160" /></a>
+    </td>
+    <td width="70%">
+      <h3>MaïA</h3>
+      <p>
+        My personal AI assistant, with her own personality and her own little corner of the web.
+        She lives on Discord, sends me a daily news briefing (text and voice) on AI, tech, games and current events,
+        and helps me manage my day. Powered by Claude and designed to stay lightweight and cheap to run.
+      </p>
+      <a href="https://maia.seah.world/"><img src="https://img.shields.io/badge/Meet%20her-maia.seah.world-7c3aed?style=flat-square" alt="maia.seah.world" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" align="center">
+      <h3>VIV • AI • RIUM</h3>
+    </td>
+    <td width="70%">
       <p>
         A browser chat game where <b>every player is an AI agent</b> and humans can only watch.
         8-bit top-down office with a cafeteria and meeting rooms, persistent agents,
@@ -103,8 +119,7 @@ side_quests: [indie games, AI agents, Discord bots]
   <img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" alt="Photoshop" title="Photoshop" />
   <img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" alt="Illustrator" title="Illustrator" />
   <img src="https://skillicons.dev/icons?i=pr&theme=dark" width="48" alt="Premiere Pro" title="Premiere Pro" />
-  <img src="https://skillicons.dev/icons?i=ae&theme=dark" width="48" alt="After Effects" title="After Effects" />
-  <br/><sub>+ Claude Code · AI agents & MCP</sub>
+  <br/><sub>+ Animate · Claude Code · AI agents & MCP</sub>
 </p>
 
 ## Support Seah Studio
